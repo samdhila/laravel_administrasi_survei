@@ -1,13 +1,13 @@
-# Sistem Administrasi Survey
+# Sistem Administrasi Survei
 
 ## Deskripsi
-Sistem Administrasi Survey adalah platform yang dirancang untuk mengelola data survei secara efisien dan terstruktur. Sistem ini mencakup berbagai fitur yang memudahkan pengguna dalam merancang, mengumpulkan, dan menganalisis data survei.
+**Sistem Administrasi Survei** adalah platform yang dirancang untuk mengelola data survei secara efisien dan terstruktur. Sistem ini mencakup berbagai fitur yang memudahkan pengguna dalam memanipulasi dan memantau data survei.
 
 ## Fitur
 - Menggunakan library **Role**
-- Sistem ini mempunyai 2 role:
-  - Admin
-  - Surveyor
+- Mempunyai 2 role:
+  - **Admin**
+  - **Surveyor**
 - Menggunakan library **Yajra Datatable**
 - Color-coded Datatable
 
@@ -35,7 +35,7 @@ Install Composer
   https://getcomposer.org/
 ```
 
-Clone Project Sistem Administrasi Survei.
+Clone Project Sistem Administrasi Survei
 ```bash
   git clone https://github.com/samdhila/administrasi_survei/
 ```
