@@ -43,7 +43,7 @@ Clone project **Sistem Administrasi Survei**
 
 Buka CMD pada directory project
 ```bash
-  cd administrasi_survei
+  cd laravel_administrasi_survei
 ```
 
 Install dependencies
