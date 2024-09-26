@@ -75,6 +75,11 @@ Migrasikan tabel pada database
   php artisan migrate
 ```
 
+Migrasikan sample data untuk tabel database
+```bash
+  php artisan db:seed
+```
+
 Jalankan aplikasi web Laravel
 ```bash
   php artisan serve
@@ -87,4 +92,3 @@ Buka URL localhost pada web browser
 ## Demo
 
 Coming soon...
-
