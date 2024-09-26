@@ -38,7 +38,7 @@
 
 Clone project **Sistem Administrasi Survei**
 ```bash
-  git clone https://github.com/samdhila/laravel_administrasi_survei
+  git clone https://github.com/samdhila/laravel_administrasi_survei.git
 ```
 
 Buka CMD pada directory project
