@@ -88,21 +88,21 @@ Jalankan aplikasi web Laravel
 
 Buka URL localhost pada web browser
 ```bash
-  http://localhost:8000/
+  http://127.0.0.1:8000/
 ```
 
 Login sebagai **Admin / Surveyor**
 ```bash
-  http://localhost:8000/
+  http://127.0.0.1:8000/login
 ```
 
 **Credential Admin (DEMO)**:\
 admin@dataset.com\
-password
+1234
 
 
 **Credential Surveyor (DEMO)**:\
-alpha@dataset.com\
+beta@dataset.com\
 password
 ## Demo
 
