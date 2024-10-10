@@ -16,58 +16,58 @@ class UserSeeder extends Seeder
     {
         $admin = User::create([
             'name' => 'Admin',
-            'email' => 'admin@dataset.com',
+            'email' => 'admin@survey.com',
             'password' => bcrypt('1234'),
         ]);
-
         $admin->assignRole('admin');
 
         $admin = User::create([
             'name' => 'Alpha',
-            'email' => 'alpha@dataset.com',
+            'email' => 'alpha@survey.com',
             'password' => bcrypt('1234'),
         ]);
-
         $admin->assignRole('admin');
 
         $user = User::create([
-            'name' => 'Beta',
-            'email' => 'beta@dataset.com',
+            'name' => 'Agus',
+            'email' => 'agus@survey.com',
             'password' => bcrypt('password'),
         ]);
-
         $user->assignRole('user');
 
         $user = User::create([
-            'name' => 'Charlie',
-            'email' => 'charlie@dataset.com',
+            'name' => 'Bella',
+            'email' => 'bella@survey.com',
             'password' => bcrypt('password'),
         ]);
-
         $user->assignRole('user');
 
         $user = User::create([
-            'name' => 'Delta',
-            'email' => 'delta@dataset.com',
+            'name' => 'Candra',
+            'email' => 'candra@survey.com',
             'password' => bcrypt('password'),
         ]);
-
         $user->assignRole('user');
 
         $user = User::create([
-            'name' => 'Edison',
-            'email' => 'edison@dataset.com',
+            'name' => 'Dimas',
+            'email' => 'dimas@survey.com',
             'password' => bcrypt('password'),
         ]);
-
         $user->assignRole('user');
 
         $user = User::create([
-            'name' => 'Foxrot',
-            'email' => 'foxrot@dataset.com',
+            'name' => 'Erika',
+            'email' => 'erika@survey.com',
             'password' => bcrypt('password'),
         ]);
+        $user->assignRole('user');
 
+        $user = User::create([
+            'name' => 'Farhan',
+            'email' => 'farhan@survey.com',
+            'password' => bcrypt('password'),
+        ]);
         $user->assignRole('user');
     }
 }
