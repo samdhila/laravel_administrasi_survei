@@ -15,28 +15,33 @@ class CitySeeder extends Seeder
     public function run()
     {
         City::create([
-            'name' => 'Toronto',
-            'population' => '100000',
+            'name' => 'Jakarta',
+            'population' => '900000',
         ]);
 
         City::create([
-            'name' => 'Vancouver',
-            'population' => '100000',
+            'name' => 'Bandung',
+            'population' => '800000',
         ]);
 
         City::create([
-            'name' => 'Montreal',
-            'population' => '100000',
+            'name' => 'Tangerang',
+            'population' => '700000',
         ]);
 
         City::create([
-            'name' => 'Quebec',
-            'population' => '100000',
+            'name' => 'Yogyakarta',
+            'population' => '600000',
         ]);
 
         City::create([
-            'name' => 'Ottawa',
-            'population' => '100000',
+            'name' => 'Semarang',
+            'population' => '500000',
+        ]);
+
+        City::create([
+            'name' => 'Surabaya',
+            'population' => '400000',
         ]);
     }
 }
