@@ -1,9 +1,9 @@
 # Laravel Sistem Administrasi Survei
 
-## Deskripsi
+## Deskripsi Sistem
 **Sistem Administrasi Survei** adalah platform yang dirancang dengan menggunakan **Laravel 8** untuk mengelola data survei secara efisien dan terstruktur. Sistem ini mencakup berbagai fitur yang memudahkan pengguna dalam memanipulasi dan memantau data survei.
 
-## Fitur
+## Detail Sistem
 - Menggunakan library **Spatie Permission** untuk integrasi sistem **Role**
 - Sistem mempunyai 2 **Role**:
   - **Admin**
@@ -13,16 +13,18 @@
 - **Batch** manipulasi data menggunakan ***checkmark***
 
 ## Alur Sistem
-- Pada **halaman Admin**, akan ditambahkan data baru yang perlu disurvei.
-- Admin bisa menambah, mengedit, dan menghapus data survei.
-- **Admin** akan assign **surveyor** pada data yang telah ditambahkan.
-- **Surveyor** lalu akan melakukan survei pada data yang telah diberikan oleh **Admin**.
-- Pada **halaman Surveyor**, user bisa menandai suatu baris data **Done** apabila data yang diberikan oleh **Admin** sudah disurvei.
+- Login sebagai **Admin** atau **Surveyor**.
+- Pada halaman **Admin**, bisa ditambahkan data baru yang perlu disurvei.
+- **Admin** bisa menambah, mengedit, dan menghapus data survei.
+- **Admin** bisa meng-assign **surveyor** pada data yang telah ditambahkan.
+- **Surveyor** akan melakukan survei pada data yang telah diberikan oleh **Admin**.
+- Pada **halaman Surveyor**, user bisa menandai suatu baris data sebagai **Done** apabila data yang diberikan oleh **Admin** sudah disurvei.
 - **Admin** akan konfirmasi data yang sudah **Done**.
 
 ## Live Demo
-Untuk demo percobaan aplikasi Laravel **Sistem Administrasi Survei**, bisa dilakukan pada
-[URL Live Demo](https://survey.samreact.my.id/) ini.
+Untuk demo percobaan aplikasi **Laravel Sistem Administrasi Survei**, bisa dilakukan pada
+[URL Live Demo](https://survey.samreact.my.id/) ini.\
+![Demo Administrasi Survei GIF](./preview/demo_survei.gif)
 
 **Credential Admin (DEMO)**:\
 admin@survey.com\
