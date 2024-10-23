@@ -106,4 +106,4 @@ password
 
 ## Live Demo
 
-[URL Live Demo](https://survey.samreact.my.id/)
+[URL Live Demo](https://survey.samreact.my.id/){:target="_blank"}
