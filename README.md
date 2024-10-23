@@ -97,13 +97,13 @@ Login sebagai **Admin / Surveyor**
 ```
 
 **Credential Admin (DEMO)**:\
-admin@dataset.com\
+admin@survey.com\
 1234
 
-
 **Credential Surveyor (DEMO)**:\
-beta@dataset.com\
+agus@survey.com\
 password
-## Demo
 
-Coming soon...
+## Live Demo
+
+[URL Live Demo](https://survey.samreact.my.id/)
