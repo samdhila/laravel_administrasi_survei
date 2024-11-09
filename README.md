@@ -24,7 +24,9 @@
 ## Live Demo
 Untuk demo percobaan aplikasi **Laravel Sistem Administrasi Survei**, bisa dilakukan pada
 [URL Live Demo](https://survey.samreact.my.id/) ini.\
-![Demo Administrasi Survei GIF](./preview/demo_survei.gif)
+![Demo Administrasi Survei GIF](https://github.com/samdhila/media/blob/main/laravel/lara01-optimized.gif)
+![Demo Administrasi Survei GIF](https://github.com/samdhila/media/blob/main/laravel/lara02-optimized.gif)
+![Demo Administrasi Survei GIF](https://github.com/samdhila/media/blob/main/laravel/lara03-optimized.gif)
 
 **Credential Admin (DEMO)**:\
 admin@survey.com\
