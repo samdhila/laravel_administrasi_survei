@@ -2,7 +2,7 @@
 
 # Table of Contents
 
-- [CodeIgniter Sistem Administrasi Toko](#codeigniter-sistem-administrasi-toko)
+- [Laravel Sistem Administrasi Survei](#laravel-sistem-administrasi-survei)
   - [Deskripsi Sistem](#deskripsi-sistem)
   - [Detail Sistem](#detail-sistem)
   - [Alur Sistem](#alur-sistem)
